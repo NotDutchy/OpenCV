@@ -21,7 +21,7 @@ using namespace std;
 
 ///////////////  Video  //////////////////////
 
-void main() {
+/*void main() {
 
 	string path = "Resources/test_video.mp4";
 	VideoCapture cap(path);
@@ -32,7 +32,7 @@ void main() {
 		imshow("Image", img);
 		waitKey(20);
 	}
-}
+}*/
 
 
 /////////////////  Webcam  //////////////////////
