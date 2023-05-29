@@ -8,7 +8,7 @@ using namespace std;
 
 ///////////////  Warp Images  //////////////////////
 
-void main() {
+/*void main() {
 
 	string path = "Resources/NameTag.jpg";
 	Mat img = imread(path);
@@ -34,4 +34,4 @@ void main() {
 	imshow("Image", imgResize2);
 	waitKey(0);
 
-}
+}*/

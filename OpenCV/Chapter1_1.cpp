@@ -18,7 +18,6 @@ using namespace std;
 
 }*/
 
-
 ///////////////  Video  //////////////////////
 
 /*void main() {

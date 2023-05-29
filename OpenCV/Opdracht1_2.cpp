@@ -6,7 +6,7 @@
 using namespace cv;
 using namespace std;
 
-void main()
+/*void main()
 {
 	string path = "Resources/GangsterGuus.JPG";
 	Mat img = imread(path);
@@ -22,4 +22,4 @@ void main()
 	imshow("Image crop", imgCrop);
 
 	waitKey(0);
-}
+}*/

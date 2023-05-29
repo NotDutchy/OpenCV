@@ -6,7 +6,7 @@
 using namespace cv;
 using namespace std;
 
-void main() {
+/*void main() {
 	Mat img(512, 512, CV_8UC3, Scalar(255, 255, 255));
 
 	putText(img, "Computer vision ", Point(30, 100), FONT_HERSHEY_DUPLEX, 1.75, Scalar(255, 69, 255), 3);
@@ -22,4 +22,4 @@ void main() {
 
 	imshow("Image", img);
 	waitKey(0);
-}
+}*/
