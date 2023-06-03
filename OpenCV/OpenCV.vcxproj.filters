@@ -18,6 +18,15 @@
     <ClCompile Include="Opdracht1_4.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Opdracht2_4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Opdracht2_2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EindOpdracht.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="Chapter1_1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -25,12 +34,6 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Opdracht1_3.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Opdracht2_4.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Opdracht2_2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

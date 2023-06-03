@@ -129,6 +129,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Chapter1_1.cpp" />
+    <ClCompile Include="EindOpdracht.cpp" />
     <ClCompile Include="Opdracht1_2.cpp" />
     <ClCompile Include="Opdracht1_3.cpp" />
     <ClCompile Include="Opdracht1_4.cpp" />

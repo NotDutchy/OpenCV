@@ -8,7 +8,7 @@ using namespace std;
 
 ///////////////  Color Detection  //////////////////////
 
-void main() {
+/*void main() {
 
 	string path = "Resources/kerstballen.bmp";
 	Mat img = imread(path);
@@ -37,4 +37,4 @@ void main() {
 		imshow("Image Mask", mask);
 		waitKey(1);
 	}
-}
+}*/
