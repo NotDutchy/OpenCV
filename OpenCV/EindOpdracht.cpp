@@ -155,7 +155,7 @@ void main() {
 
 	string path = "Resources/paper.jpg";
 	imgOriginal = imread(path);
-	//resize(imgOriginal, imgOriginal, Size(), 0.5, 0.5);
+	resize(imgOriginal, imgOriginal, Size(), 0.5, 0.5);
 
 	// Preprpcessing - Step 1 
 	imgThre = preProcessing(imgOriginal);
