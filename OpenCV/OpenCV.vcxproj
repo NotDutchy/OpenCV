@@ -128,7 +128,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="OpenCV.cpp" />
+    <ClCompile Include="Chapter1_1.cpp" />
+    <ClCompile Include="EindOpdracht.cpp" />
+    <ClCompile Include="Opdracht1_2.cpp" />
+    <ClCompile Include="Opdracht1_3.cpp" />
+    <ClCompile Include="Opdracht1_4.cpp" />
+    <ClCompile Include="Opdracht2_2.cpp" />
+    <ClCompile Include="Opdracht2_4.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
