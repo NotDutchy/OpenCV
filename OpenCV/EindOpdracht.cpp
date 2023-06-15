@@ -103,7 +103,7 @@ Mat getWarp(Mat img, vector<Point> points, float w, float h)
 Mat getText(Mat image)
 {
 	Mat rgb = image;
-	pyrDown(image, rgb);
+	//pyrDown(image, rgb);
 
 	cv::Mat grayImage;
 	cv::cvtColor(rgb, grayImage, cv::COLOR_BGR2GRAY);
@@ -179,7 +179,6 @@ void main() {
 	//imshow("Image Dilation", imgThre);
 	//imshow("Image Warp", imgWarp);
 	imshow("Image Crop", imgCrop);
-	imshow("Woorden en letters", imgText);
 	waitKey(0);
 
 }
